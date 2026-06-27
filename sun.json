@@ -1,0 +1,382 @@
+{
+  "id": "sun-billiamfrances",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@billiamfrances Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b25321ccc441",
+    "display_name": "billiamfrances",
+    "user_id": "@billiamfrances",
+    "description": "Community Archive-derived proof-of-search sun for @billiamfrances.",
+    "document_count": 8951,
+    "word_count": 189810,
+    "active_days": 944,
+    "emissions": [
+      "Really",
+      "Think",
+      "Good",
+      "Don",
+      "Time",
+      "Life"
+    ],
+    "generated_at": "2026-06-27T15:35:47.110145+00:00",
+    "color": "#f59e0b",
+    "mass": 12.154
+  },
+  "planets": [
+    {
+      "id": "planet_e6e741244263",
+      "name": "Really",
+      "summary": "Archive cluster around really: 7230 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "love",
+        "way",
+        "yeah",
+        "danielbrottman"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fbf99ac10fd0",
+          "title": "Really receipt from 2024-10-23",
+          "excerpt": "The healthiest relationships (platonic, romantic, collaborative, etc) I’ve observed are amongst those people who are committed to being comfortable with their own and each other’s discomfort to the point that what could be called “conflict” isn’t actually that uncomfortable.\n\n1/ https://t.co/yp6ExbGsVv",
+          "source_document_id": "1849107965200232649",
+          "timestamp": "2024-10-23T15:17:48+00:00",
+          "url": "https://x.com/billiamfrances/status/1849107965200232649",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, love, way, yeah."
+        },
+        {
+          "id": "art_4adcdd35fd4d",
+          "title": "Really receipt from 2022-01-30",
+          "excerpt": "@Robert__Isaac @TylerHuckabee reading comprehension was POOR lmao\n\nIf it’s easier for *extremely impossible thing to happen* than for a rich person to go to heaven, then it’s *extra extra extremely impossible* lol",
+          "source_document_id": "1487650033243607042",
+          "timestamp": "2022-01-30T04:53:01+00:00",
+          "url": "https://x.com/billiamfrances/status/1487650033243607042",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, love, way, yeah."
+        },
+        {
+          "id": "art_5cc1bce6c6a0",
+          "title": "Really receipt from 2024-10-23",
+          "excerpt": "The healthy alternative to “conflict avoidance” isn’t having a lot of difficult conversations or “processing” your feelings (which is usually processing thoughts and interpretations, not feelings).\n\n2/",
+          "source_document_id": "1849107967309906231",
+          "timestamp": "2024-10-23T15:17:48+00:00",
+          "url": "https://x.com/billiamfrances/status/1849107967309906231",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, love, way, yeah."
+        },
+        {
+          "id": "art_0de4789415fe",
+          "title": "Really receipt from 2024-10-23",
+          "excerpt": "The healthy alternative is non-manipulation, both of self and other. Inner and outer senses of conflict are signals that point to where integrity lives in each moment. Sometimes integrity is just acknowledging uncertainty where previously there was certainty.\n\n3/",
+          "source_document_id": "1849107969029575132",
+          "timestamp": "2024-10-23T15:17:49+00:00",
+          "url": "https://x.com/billiamfrances/status/1849107969029575132",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, love, way, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d57ab32254f1",
+      "proof_score": 1,
+      "mass": 35.511,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_31622b52c129",
+      "name": "Think",
+      "summary": "Archive cluster around think: 440 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "lot",
+        "yeah",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4aa3f5f44ca2",
+          "title": "Think receipt from 2024-10-25",
+          "excerpt": "This was something I noticed in myself over the course of some personal reckoning. If I felt attracted to someone, I’d notice parts of me that started to try to fit what I think they’d like almost immediately. 1/ https://t.co/1CXy2x4iSY",
+          "source_document_id": "1849878134235275352",
+          "timestamp": "2024-10-25T18:18:10+00:00",
+          "url": "https://x.com/billiamfrances/status/1849878134235275352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, yeah."
+        },
+        {
+          "id": "art_8fd6f9b5a38c",
+          "title": "Think receipt from 2024-12-13",
+          "excerpt": "After a lot of reckoning w myself + my sense of the world, I think the only good path to collective change is patiently inviting yourself + those you’re connected with into maturity. And that’s an incredibly humbling practice. 1/ https://t.co/qiKZZfuS4y",
+          "source_document_id": "1867364667041136840",
+          "timestamp": "2024-12-13T00:23:25+00:00",
+          "url": "https://x.com/billiamfrances/status/1867364667041136840",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, yeah."
+        },
+        {
+          "id": "art_d202bdc7fccf",
+          "title": "Think receipt from 2025-02-15",
+          "excerpt": "@silentsabbath I think the thing is, Taoism is a more anarchist framework, so people who might have been hugely influenced by it have nothing to say about it (it is the Tao after all lol) and are less likely to be drawn to or form institutions around it",
+          "source_document_id": "1890874621777301617",
+          "timestamp": "2025-02-15T21:23:35+00:00",
+          "url": "https://x.com/billiamfrances/status/1890874621777301617",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, yeah."
+        },
+        {
+          "id": "art_0aea656b8a1e",
+          "title": "Think receipt from 2025-02-12",
+          "excerpt": "@VinceFHorn Tbh this type of shit talking comes off as beneath you, Vince. Not because shit talking is bad, I just don’t think you’re that good at it.",
+          "source_document_id": "1889775053329383907",
+          "timestamp": "2025-02-12T20:34:17+00:00",
+          "url": "https://x.com/billiamfrances/status/1889775053329383907",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, lot, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_01b45e6080e0",
+      "proof_score": 0.959,
+      "mass": 28.649,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_8b86a6fcefa1",
+      "name": "Good",
+      "summary": "Archive cluster around good: 399 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "feel",
+        "time",
+        "emotional",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bb84ec8fbb5b",
+          "title": "Good receipt from 2024-10-25",
+          "excerpt": "Many of us do this, and it’s part of what makes us susceptible to manipulation. If you’re used to neurotically shaping yourself to be a “good” partner/student/friend/son or daughter/etc, it’s easier for others to mold you. 2/",
+          "source_document_id": "1849878136500126023",
+          "timestamp": "2024-10-25T18:18:11+00:00",
+          "url": "https://x.com/billiamfrances/status/1849878136500126023",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, time, emotional."
+        },
+        {
+          "id": "art_6b578a3de19a",
+          "title": "Good receipt from 2024-11-27",
+          "excerpt": "AI getting good at psychotherapy is pointing to the very limitations of psychotherapy as a model. The individualized, compartmentalized, and highly cognitive nature of it makes it easy to replicate and replace with LLM/RLHF stuff. Even “somatic” therapists are often just doing 1/",
+          "source_document_id": "1861859783101554795",
+          "timestamp": "2024-11-27T19:48:58+00:00",
+          "url": "https://x.com/billiamfrances/status/1861859783101554795",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, time, emotional."
+        },
+        {
+          "id": "art_3a418371d90e",
+          "title": "Good receipt from 2023-08-16",
+          "excerpt": "@Srirachachau Homer: Ooo 20 dollars?! 😢 I wanted a peanut\n\nHomer’s 🧠: $20 can buy many peanuts\n\nH: Explain how.\n\n🧠: Money can be exchanged for good’s and services.\n\nH: WOOHOO!",
+          "source_document_id": "1691829545303703956",
+          "timestamp": "2023-08-16T15:09:30+00:00",
+          "url": "https://x.com/billiamfrances/status/1691829545303703956",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, time, emotional."
+        },
+        {
+          "id": "art_0458853f6951",
+          "title": "Good receipt from 2023-08-06",
+          "excerpt": "@Barbarajeanmc @brofromanother I thought it was pretty clear that he wasn’t a good guy",
+          "source_document_id": "1687982961595932672",
+          "timestamp": "2023-08-06T00:24:33+00:00",
+          "url": "https://x.com/billiamfrances/status/1687982961595932672",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, time, emotional."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8d4976003fc3",
+      "proof_score": 0.949,
+      "mass": 27.748,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_9615f9e353a6",
+      "name": "Don",
+      "summary": "Archive cluster around don: 325 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "need",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_862de79185df",
+          "title": "Don receipt from 2022-12-03",
+          "excerpt": "@christapeterso I mean, it is unnecessary to an extent, but you might be underestimating the number of adults who indeed react almost apopleptically and don’t understand how it could be done without hurting those involved. Even with the “ethical” word you still have to explain a lot tho lol",
+          "source_document_id": "1599172966419673089",
+          "timestamp": "2022-12-03T22:45:21+00:00",
+          "url": "https://x.com/billiamfrances/status/1599172966419673089",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_6cdf4c266651",
+          "title": "Don receipt from 2023-07-22",
+          "excerpt": "@LadyDumplings Not to mention time poverty; if you’re hustling multiple jobs, can’t afford childcare, etc etc etc you don’t have the time to prepare your own food so the gas station got dog or fast food is the option you gotta go with",
+          "source_document_id": "1682651861164388354",
+          "timestamp": "2023-07-22T07:20:40+00:00",
+          "url": "https://x.com/billiamfrances/status/1682651861164388354",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_eac420f38740",
+          "title": "Don receipt from 2025-02-12",
+          "excerpt": "It’s not “it’s going to be ok.” \n\nIt’s “the always present ok-ness that can’t be touched by either ok or not-ok, or anything in between. Unconditional ok-ness. The ok-ness that no human could give or take from another.”\n\nDon’t take my word for it. I’m just enjoying the moon.",
+          "source_document_id": "1889677143136936239",
+          "timestamp": "2025-02-12T14:05:14+00:00",
+          "url": "https://x.com/billiamfrances/status/1889677143136936239",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        },
+        {
+          "id": "art_04ecaebff13b",
+          "title": "Don receipt from 2024-06-24",
+          "excerpt": "I •love• meditating on airplanes. Don’t even need that flight map. Something about travel gets me in the zone more efficiently than everyday life. I’m also into getting to the airport way early and people watching. I’ve actually gotten there •too• early before lol https://t.co/yLnNSRxSKJ",
+          "source_document_id": "1805384852747043197",
+          "timestamp": "2024-06-24T23:37:45+00:00",
+          "url": "https://x.com/billiamfrances/status/1805384852747043197",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_be19c0e57265",
+      "proof_score": 0.929,
+      "mass": 27.581,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_a808e4f091f3",
+      "name": "Time",
+      "summary": "Archive cluster around time: 330 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "real",
+        "over",
+        "sense",
+        "yeah"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a749dc422d0b",
+          "title": "Time receipt from 2024-10-25",
+          "excerpt": "If you find the place of naturalness, it’s easier to find the relational contexts where the best of you is drawn out •without effort•\n\nPeople stuck in manipulative patterns (manipulating self and/or others) typically have a hard time with naturalness bc they’re avoiding pain 3/",
+          "source_document_id": "1849878138219794594",
+          "timestamp": "2024-10-25T18:18:11+00:00",
+          "url": "https://x.com/billiamfrances/status/1849878138219794594",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, over, sense."
+        },
+        {
+          "id": "art_1491e01ae840",
+          "title": "Time receipt from 2024-01-11",
+          "excerpt": "I finally made the decision to discontinue my PhD last month, 9.5 years in. My chronic illness remains too debilitating to my level of functioning for that to be realistic (or honestly worthwhile for what I want to do with my time). 1/",
+          "source_document_id": "1745592582888124876",
+          "timestamp": "2024-01-11T23:44:37+00:00",
+          "url": "https://x.com/billiamfrances/status/1745592582888124876",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, over, sense."
+        },
+        {
+          "id": "art_9727058f71e4",
+          "title": "Time receipt from 2024-10-22",
+          "excerpt": "I’ve spent a lot of time studying happiness and well-being. The people I’ve perceived/believed to be genuinely emotionally well have had one thing in common: a network of connections within which low stakes/low risk but still authentic intimacy is available in myriad forms. 1/ https://t.co/LuXV3W6DXk",
+          "source_document_id": "1848790396224311773",
+          "timestamp": "2024-10-22T18:15:53+00:00",
+          "url": "https://x.com/billiamfrances/status/1848790396224311773",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, over, sense."
+        },
+        {
+          "id": "art_5ba2cae52cf2",
+          "title": "Time receipt from 2024-10-22",
+          "excerpt": "I see it all the time between people who have done lots of personal work: they’ve put in tons of •individualized• effort so when they get in conflict they throw over-developed “skills” at each other as opposed to knowing how to orient to ground of mutual emergence 7/",
+          "source_document_id": "1848751994191941870",
+          "timestamp": "2024-10-22T15:43:18+00:00",
+          "url": "https://x.com/billiamfrances/status/1848751994191941870",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, real, over, sense."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_89bec7f4dc03",
+      "proof_score": 0.93,
+      "mass": 27.662,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_81c7b1edde68",
+      "name": "Life",
+      "summary": "Archive cluster around life: 227 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "life",
+        "most",
+        "here",
+        "practice",
+        "connection"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9dc89d9db2d3",
+          "title": "Life receipt from 2024-12-05",
+          "excerpt": "Fully forgave my dad after experiencing the deepest suffering of my life and getting some brief relief. He died about 6 months later. There had been some recognition before that he was simply emotionally and relationally disabled, but I couldn’t have him in my life. 1/ https://t.co/vo3FEdocBd",
+          "source_document_id": "1864736849077637454",
+          "timestamp": "2024-12-05T18:21:24+00:00",
+          "url": "https://x.com/billiamfrances/status/1864736849077637454",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, most, here, practice."
+        },
+        {
+          "id": "art_76ccdb1e36b1",
+          "title": "Life receipt from 2022-02-18",
+          "excerpt": "@Ryder_Worrell @PatMcAfeeShow Perhaps healthcare shouldn’t depend on the charity of strangers, perhaps we could collectively have a system where everyone gets the care they need, and life saving medicine isn’t subject to corporate profiteering. We could make healthcare… universal.",
+          "source_document_id": "1494801636883009537",
+          "timestamp": "2022-02-18T22:30:56+00:00",
+          "url": "https://x.com/billiamfrances/status/1494801636883009537",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, most, here, practice."
+        },
+        {
+          "id": "art_f88bb782f5fa",
+          "title": "Life receipt from 2024-07-12",
+          "excerpt": "It’s less about figuring out what you want + asking for it than it is about orienting to the fundamentals (naturalness, nourishment, generativity) + following the emergent pathways + invitations life offers. Orient to the glimpses and glimmers and you’ll grow towards the sun.",
+          "source_document_id": "1811849509485576604",
+          "timestamp": "2024-07-12T19:46:00+00:00",
+          "url": "https://x.com/billiamfrances/status/1811849509485576604",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, most, here, practice."
+        },
+        {
+          "id": "art_721435018f30",
+          "title": "Life receipt from 2024-12-05",
+          "excerpt": "Of an ever unfolding process and an integrated aspect of an ongoing relationship. \n\nThat’s my thoughts atm at least\n\nGrains of salt etc\n\nClosest thing to truth I can say is that it’s worth it to authentically reckon with your emotional-relational life, whatever forms that takes",
+          "source_document_id": "1864736856568696875",
+          "timestamp": "2024-12-05T18:21:26+00:00",
+          "url": "https://x.com/billiamfrances/status/1864736856568696875",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, most, here, practice."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ef99efd3d9d1",
+      "proof_score": 0.893,
+      "mass": 26.641,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
